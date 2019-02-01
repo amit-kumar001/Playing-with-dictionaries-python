@@ -18,20 +18,3 @@ print("Third way:")
 keys = data.keys()
 values = data.values()
 print(keys,values,end=" ")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
