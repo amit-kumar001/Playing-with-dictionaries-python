@@ -5,7 +5,12 @@
   <li> First Way includes, join and format with dictionary.items()</li>
   <li> Second way includes key, values and dictionary.items()</li>
   <li> Third way includes using the methods of the dictioanries</li>
-</ol>
+</ol>  
+
+Please have a look at the below image  
+
+![dictionary](https://user-images.githubusercontent.com/47202519/52629341-7cecf700-2edf-11e9-84cd-1d259afc3a55.jpg)  
+
 
 ## Implementing ways with code
 
