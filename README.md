@@ -9,8 +9,7 @@
 
 Please have a look at the below image  
 
-![dictionary](https://user-images.githubusercontent.com/47202519/52629341-7cecf700-2edf-11e9-84cd-1d259afc3a55.jpg)  
-
+![dictionary500x300](https://user-images.githubusercontent.com/47202519/52691057-ae200280-2f85-11e9-8e4c-d32cecbe4c57.jpg)
 
 ## Implementing ways with code
 
